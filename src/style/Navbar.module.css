@@ -1,0 +1,12 @@
+.navbar {
+    border: 1px solid black;
+    padding: 3%;
+    background-color: teal;
+  }
+  
+  button {
+    padding: 10px 50px;
+    background-color: black;
+    color: white;
+  }
+  
